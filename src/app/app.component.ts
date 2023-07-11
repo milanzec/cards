@@ -12,9 +12,9 @@ export class AppComponent {
       title: 'Neat Tree',
       imageUrl: 'assets/tree.jpeg',
       username: 'nature',
-      content: 'Saw this awsome tree during my hike today.'
+      content: 'Saw this awsome tree  today.'
     },
-     {
+    {
       title: 'Snowy Mountain',
       imageUrl: 'assets/mountain.jpeg',
       username: 'mountain lover',
@@ -25,7 +25,14 @@ export class AppComponent {
       imageUrl: 'assets/biking.jpeg',
       username: 'biking2222',
       content: 'I did some biking today.'
+    },
+     {
+      title: 'Snowy Mountain',
+      imageUrl: 'assets/mountain.jpeg',
+      username: 'mountain lover',
+      content: 'Here is a picture of a snowy mountain.'
     }
+
   ]
 
 }
